@@ -1,7 +1,8 @@
-Define Priorities
+#### Define Priorities
+- Quran
 
-Quran 10 pages a day 
-Study session
+
+
 ## Daily Schedule
 
 | Time                | Activity                     | Duration          |

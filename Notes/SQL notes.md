@@ -4,7 +4,8 @@
 - Left Join keeps the rows of table A regardless of matches found in table B
 - Right join keeps rows from table B regardless of matches found in A
 - Full join, makes sure that both rows in A and B are kept regardless of having matche
-
 Outer Joins are full of Nulls for these reasons
 
-Round() function is used to round numbers
+
+- Round() function is used to round numbers
+- Group by is used to group things that are repeated in the same column, the aggregate function is referred to each different group in the column specified. 
