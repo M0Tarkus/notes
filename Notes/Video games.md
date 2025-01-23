@@ -10,3 +10,8 @@ So i force myself to open my PC only for video games
 like some sort of a drug to keep myself hypnotized a little bit. completely useless
 
 It's as simple as. No video games this winter. Completely doable. 
+
+
+doable but should i do it tho ? 
+
+I'm allowed video games, 2 hrs every friday. that's it 

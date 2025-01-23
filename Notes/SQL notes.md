@@ -9,3 +9,12 @@ Outer Joins are full of Nulls for these reasons
 
 - Round() function is used to round numbers
 - Group by is used to group things that are repeated in the same column, the aggregate function is referred to each different group in the column specified. 
+
+### SQL logic Process
+1. from 
+2. Where
+3. Group by
+4. Havin
+5. Select
+6. Order By
+
